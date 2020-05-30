@@ -1,6 +1,8 @@
 # DOMINATORS
 Creating WebSite using html , css and JavaScript
 
+Team name :- Dominators
+
 Project name :- Grocery Shop
 
 
